@@ -22,3 +22,15 @@
   .profissao-nome {
     color: #3b60ac;
   }
+
+  .descricao-profissao {
+    background-image: linear-gradient(#64cd64, #ffffff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+  }
+
+  .descricao-profissao-div {
+    width: 30%;
+  }
