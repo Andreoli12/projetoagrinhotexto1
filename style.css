@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  .cabecalho{
+    background-color: #64cd64;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .cabecalho-imagem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+    width: 20%;
+  }
+  
+  .profissao-nome {
+    color: #3b60ac;
+  }
