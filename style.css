@@ -46,3 +46,10 @@
   .profissao-texto-tres {
     padding: 24px 0;
   }
+
+  .registros-titulo {
+    font-family: "Poppins", sans-serif;
+      font-weight: 300;
+      font-style: italic;  
+      color: #3b60ac;
+  }
