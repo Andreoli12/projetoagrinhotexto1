@@ -92,6 +92,11 @@
   .profissao-nome {
     font-family: "Poppins", sans-serif;
   }
+
+  .link{
+    color: #ffffff;
+    text-align: left;
+  }
   footer{
     background-color: #c12020;
     color: #ffffff;
